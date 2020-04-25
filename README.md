@@ -1,4 +1,8 @@
 # Team-2-Project
 
-Tesla or COVID; I'd rather have Tesla
-https://youtu.be/6RhtiPefVzM
+Primary Source
+https://www.bls.gov/data/
+Secondary Sources
+https://www.census.gov/
+https://www.nytimes.com/2014/09/11/business/economy/a-simple-equation-more-education-more-income.html
+
